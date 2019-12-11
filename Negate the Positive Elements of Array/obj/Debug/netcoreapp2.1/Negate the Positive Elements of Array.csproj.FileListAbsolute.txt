@@ -1,0 +1,11 @@
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Negate the Positive Elements of Array\Negate the Positive Elements of Array\bin\Debug\netcoreapp2.1\Negate the Positive Elements of Array.deps.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Negate the Positive Elements of Array\Negate the Positive Elements of Array\bin\Debug\netcoreapp2.1\Negate the Positive Elements of Array.runtimeconfig.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Negate the Positive Elements of Array\Negate the Positive Elements of Array\bin\Debug\netcoreapp2.1\Negate the Positive Elements of Array.runtimeconfig.dev.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Negate the Positive Elements of Array\Negate the Positive Elements of Array\bin\Debug\netcoreapp2.1\Negate the Positive Elements of Array.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Negate the Positive Elements of Array\Negate the Positive Elements of Array\bin\Debug\netcoreapp2.1\Negate the Positive Elements of Array.pdb
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Negate the Positive Elements of Array\Negate the Positive Elements of Array\obj\Debug\netcoreapp2.1\Negate the Positive Elements of Array.csprojAssemblyReference.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Negate the Positive Elements of Array\Negate the Positive Elements of Array\obj\Debug\netcoreapp2.1\Negate the Positive Elements of Array.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Negate the Positive Elements of Array\Negate the Positive Elements of Array\obj\Debug\netcoreapp2.1\Negate the Positive Elements of Array.AssemblyInfoInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Negate the Positive Elements of Array\Negate the Positive Elements of Array\obj\Debug\netcoreapp2.1\Negate the Positive Elements of Array.AssemblyInfo.cs
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Negate the Positive Elements of Array\Negate the Positive Elements of Array\obj\Debug\netcoreapp2.1\Negate the Positive Elements of Array.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Negate the Positive Elements of Array\Negate the Positive Elements of Array\obj\Debug\netcoreapp2.1\Negate the Positive Elements of Array.pdb
